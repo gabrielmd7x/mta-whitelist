@@ -4,7 +4,7 @@ Criei este sistema de whitelist em um curto tempo, apenas para fins de **aprendi
 A ideia é permitir que os jogadores façam a whitelist sem que o código precise acessar diretamente o banco de dados:  
 o sistema envia uma solicitação para o **bot do Discord**, que fica responsável pelo gerenciamento.
 
-Sistema simples, desenvolvido apenas para fins de aprendizado...
+**Sistema simples, desenvolvido apenas para fins de aprendizado...**
 
 ---
 
