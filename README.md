@@ -60,7 +60,7 @@ pnpm install
 ```
 
 ### 3. Configurar variáveis de ambiente
-Crie um arquivo .env dentro da mta_whitelist--app
+Crie um arquivo .env dentro do mta_whitelist--app
 ```sh
 TOKEN=TOKEN
 CLIENT_ID=CLIENT_ID
