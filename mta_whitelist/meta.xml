@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop> 
+    
+    <script type="client" src="src/infra/modules/responsive.lua"/>
+
+    <script type="server" src="src/settings/server/s.settings.lua"/>
+    <script type="server" src="src/code/server/s.main.lua"/>
+    
+    <script type="client" src="src/code/client/c.main.lua"/>
+    
+    <export function="whitelistApproved" type="server" http="true" />
+    <min_mta_version server="1.6.0" client="1.6.0" />
+</meta>
