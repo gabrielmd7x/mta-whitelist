@@ -62,7 +62,7 @@ pnpm install
 ### 3. Configurar variáveis de ambiente
 Crie um arquivo .env dentro do mta_whitelist--app
 ```sh
-TOKEN=TOKEN
+DISCORD_TOKEN=DISCORD_TOKEN
 CLIENT_ID=CLIENT_ID
 WHITELIST_PORT=3000
 MTA_IP=127.0.0.1
